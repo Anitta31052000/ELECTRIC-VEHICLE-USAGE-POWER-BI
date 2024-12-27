@@ -1,1 +1,2 @@
 # ELECTRIC-VEHICLE-USAGE-POWER-BI
+Designed and developed an interactive Power BI dashboard to analyze Electric Vehicle (EV) adoption across various states, leveraging comprehensive datasets to identify trends and patterns. The analysis included metrics such as registration rates, charging infrastructure availability, and state-wise incentives, providing actionable insights into regional adoption disparities. Presented findings through dynamic visualizations, enabling stakeholders to strategize on policy-making, infrastructure development, and market penetration.
